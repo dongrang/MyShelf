@@ -12,7 +12,7 @@ export default function NavBar() {
   return (
     <div className="flex gap-2 p-3 bg-gray-50 rounded-xl shadow-sm">
       <h1>NavBar</h1>
-      <NavLink to="/" className={LinkClass}>
+      <NavLink to="/" end className={LinkClass}>
         Catalog
       </NavLink>
       <NavLink to="/list/want" className={LinkClass}>
