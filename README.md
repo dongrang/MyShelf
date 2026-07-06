@@ -14,3 +14,29 @@ reloads.<br>
 
 ![Catalog light mode](screenshots/catalog-light.png)
 ![Catalog dark mode](screenshots/catalog-dark.png)
+
+## Setup
+### Installation
+1. Clone the repository and install dependencies:
+```bash
+   npm install
+```
+
+### Running
+This project needs **two terminals** running at the same time:
+
+1. Start the json-server backend (port 3001):
+```bash
+   npm run server
+```
+2. In a second terminal, start the Vite dev server (port 5173):
+```bash
+   npm run dev
+```
+3. Open http://localhost:5173 in your browser.
+
+### Resetting
+To restore the original seed data:
+```bash
+npm run reset-db
+```
