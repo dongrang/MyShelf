@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Ace Combat 7: Skies Unknown",
       "creator": "Bandai Namco",
       "year": 2019,
       "genre": "Arcade Flight",
-      "status": "dropped",
-      "rating": 4,
+      "status": "done",
+      "rating": 5,
       "note": "The Stonehenge mission still gives me chills."
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Among Us",
       "creator": "Innersloth",
       "year": 2018,
@@ -21,7 +21,7 @@
       "note": "Fun with friends, dead on its own."
     },
     {
-      "id": "3",
+      "id": 3,
       "title": "Arma 3",
       "creator": "Bohemia Interactive",
       "year": 2013,
@@ -31,7 +31,7 @@
       "note": "Still learning the helicopter controls."
     },
     {
-      "id": "4",
+      "id": 4,
       "title": "Call of Duty 4: Modern Warfare",
       "creator": "Infinity Ward",
       "year": 2007,
@@ -41,7 +41,7 @@
       "note": null
     },
     {
-      "id": "5",
+      "id": 5,
       "title": "Cyberpunk 2077",
       "creator": "CD Projekt Red",
       "year": 2020,
@@ -51,7 +51,7 @@
       "note": "Phantom Liberty made this a completely different game."
     },
     {
-      "id": "6",
+      "id": 6,
       "title": "Dark Souls",
       "creator": "FromSoftware",
       "year": 2011,
@@ -61,7 +61,7 @@
       "note": "Ornstein and Smough took me way too many tries."
     },
     {
-      "id": "7",
+      "id": 7,
       "title": "Dark Souls II",
       "creator": "FromSoftware",
       "year": 2014,
@@ -71,7 +71,7 @@
       "note": "Hitboxes felt off after the first one."
     },
     {
-      "id": "8",
+      "id": 8,
       "title": "Dark Souls III",
       "creator": "FromSoftware",
       "year": 2016,
@@ -81,7 +81,7 @@
       "note": null
     },
     {
-      "id": "9",
+      "id": 9,
       "title": "Elden Ring",
       "creator": "FromSoftware",
       "year": 2022,
@@ -91,7 +91,7 @@
       "note": "Malenia broke me and rebuilt me."
     },
     {
-      "id": "10",
+      "id": 10,
       "title": "Ender Lilies: Quietus of the Knights",
       "creator": "Live Wire",
       "year": 2021,
@@ -101,7 +101,7 @@
       "note": null
     },
     {
-      "id": "11",
+      "id": 11,
       "title": "Europa Universalis IV",
       "creator": "Paradox Development Studio",
       "year": 2013,
@@ -111,7 +111,7 @@
       "note": "Trying to form the HRE as Brandenburg."
     },
     {
-      "id": "12",
+      "id": 12,
       "title": "Civilization VII",
       "creator": "Firaxis Games",
       "year": 2025,
@@ -121,7 +121,7 @@
       "note": null
     },
     {
-      "id": "13",
+      "id": 13,
       "title": "Hearts of Iron IV",
       "creator": "Paradox Development Studio",
       "year": 2016,
@@ -131,7 +131,7 @@
       "note": "The learning curve won this round."
     },
     {
-      "id": "14",
+      "id": 14,
       "title": "Library of Ruina",
       "creator": "ProjectMoon",
       "year": 2021,
@@ -141,7 +141,7 @@
       "note": "Roland's floor destroyed me emotionally."
     },
     {
-      "id": "15",
+      "id": 15,
       "title": "Lobotomy Corporation",
       "creator": "ProjectMoon",
       "year": 2018,
@@ -151,7 +151,7 @@
       "note": null
     },
     {
-      "id": "16",
+      "id": 16,
       "title": "NieR: Automata",
       "creator": "PlatinumGames",
       "year": 2017,
@@ -161,7 +161,7 @@
       "note": null
     },
     {
-      "id": "17",
+      "id": 17,
       "title": "Red Dead Redemption 2",
       "creator": "Rockstar Games",
       "year": 2018,
@@ -171,7 +171,7 @@
       "note": "Taking the scenic route through the Grizzlies."
     },
     {
-      "id": "18",
+      "id": 18,
       "title": "Project Wingman",
       "creator": "Sector Game",
       "year": 2020,
@@ -181,7 +181,7 @@
       "note": "Great soundtrack, got distracted by other games."
     },
     {
-      "id": "19",
+      "id": 19,
       "title": "Steins;Gate",
       "creator": "5pb.",
       "year": 2009,
@@ -191,7 +191,7 @@
       "note": null
     },
     {
-      "id": "20",
+      "id": 20,
       "title": "Terraria",
       "creator": "Re-Logic",
       "year": 2011,
@@ -200,6 +200,5 @@
       "rating": null,
       "note": "Just beat the Wall of Flesh, onto hardmode."
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
