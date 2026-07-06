@@ -6,10 +6,12 @@ import ItemDetail from "./pages/ItemDetail";
 import FilteredList from "./pages/FilteredList";
 import About from "./pages/About";
 import NotFound from "./pages/NotFound";
+import { useUiStore } from "./store/useUiStore";
 
 function App() {
+  const theme = useUiStore((s) => s.theme);
   return (
-    <div>
+    <div className={`${theme === "dark" ? "dark" : ""} min-h-screen bg-white dark:bg-gray-900 text-black dark:text-white`}>
       <NavBar />
       <Routes>
         <Route path="/" element={<Catalog />} />
